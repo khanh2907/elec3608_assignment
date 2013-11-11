@@ -1,0 +1,392 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\11.1sp1\modelsim_ase
+Econtrol
+Z0 w1379551015
+Z1 DPx3 std 6 textio 0 22 G^o2zK;Vh4eVdKTVo98653
+Z2 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z3 dC:\Users\kngu2907.INTERNAL\Computer Architecture Assignment
+Z4 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_control.vhd
+Z5 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_control.vhd
+l0
+L10
+V=E<R9LFZ<W>OGTWK=NWFk1
+Z6 OV;C;10.0c;49
+32
+Z7 !s108 1379551933.308000
+Z8 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_control.vhd|
+Z9 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_control.vhd|
+Z10 o-work work -2002 -explicit -O0
+Z11 tExplicit 1
+!s100 ]Gcl6D1<>2dc9;:z[M]Ic2
+Abehavioral
+R1
+R2
+DEx4 work 7 control 0 22 =E<R9LFZ<W>OGTWK=NWFk1
+l22
+L17
+VPdo4aSbJlLTPZKTiZXUlD1
+R6
+32
+R7
+R8
+R9
+R10
+R11
+!s100 b@LB[1R9LV9[>F97Ekbn=0
+Edecode
+Z12 w1182347438
+Z13 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z14 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+R1
+R2
+R3
+Z15 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_decode.vhd
+Z16 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_decode.vhd
+l0
+L15
+VYVmjoG8ZSeKoek9?gX1^_2
+R6
+32
+Z17 !s108 1379551933.354000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_decode.vhd|
+Z19 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_decode.vhd|
+R10
+R11
+!s100 :kP2eDEXh97KihghSn9VU2
+Abehavioral
+R13
+R14
+R1
+R2
+DEx4 work 6 decode 0 22 YVmjoG8ZSeKoek9?gX1^_2
+l75
+L33
+VV7TRdDG1<eIkg=?]3MAHz1
+R6
+32
+R17
+R18
+R19
+R10
+R11
+!s100 SUQjBTB1T_^KzN;F7>njJ3
+Eexecute
+Z20 w1182342316
+Z21 DPx4 ieee 16 std_logic_signed 0 22 E>OLoMaBGQ?hbGgOoNXM^1
+R14
+R1
+R2
+R3
+Z22 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_execute.vhd
+Z23 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_execute.vhd
+l0
+L11
+VTKMj;=@e3nd5^b9kPV4RR2
+R6
+32
+Z24 !s108 1379551933.405000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_execute.vhd|
+Z26 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_execute.vhd|
+R10
+R11
+!s100 `VIZPVQ66NiSVUd`FX8bS2
+Abehavioral
+R21
+R14
+R1
+R2
+DEx4 work 7 execute 0 22 TKMj;=@e3nd5^b9kPV4RR2
+l38
+L31
+VP;KiiLzOLe]YIUOkkFHT]0
+R6
+32
+R24
+R25
+R26
+R10
+R11
+!s100 IY[LFnnmA<_LcMZ6NQ?d>1
+Efetch
+Z27 w1379551930
+R13
+R14
+R1
+R2
+R3
+Z28 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_fetch.vhd
+Z29 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_fetch.vhd
+l0
+L12
+V>1l7R9?6;RPzo4g7U^4Ll0
+R6
+32
+Z30 !s108 1379551933.471000
+Z31 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_fetch.vhd|
+Z32 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_fetch.vhd|
+R10
+R11
+!s100 njFmSz6`<?1C2KJiFY?HU2
+Abehavioral
+R13
+R14
+R1
+R2
+DEx4 work 5 fetch 0 22 >1l7R9?6;RPzo4g7U^4Ll0
+l48
+L21
+VMNl?Le1VzT5?z4G3]A>P=3
+R6
+32
+R30
+R31
+R32
+R10
+R11
+!s100 ];JL@:JeDeT1BHCoh`M`63
+Ememory
+Z33 w1183965008
+R13
+R14
+R1
+R2
+R3
+Z34 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_memory.vhd
+Z35 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_memory.vhd
+l0
+L11
+VnNbJ[mR5B7Bc7OkbF;Z[91
+R6
+32
+Z36 !s108 1379551933.532000
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_memory.vhd|
+Z38 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_memory.vhd|
+R10
+R11
+!s100 Yia@N`ScT`4Y6CbG_P2V12
+Abehavioral
+R13
+R14
+R1
+R2
+DEx4 work 6 memory 0 22 nNbJ[mR5B7Bc7OkbF;Z[91
+l64
+L26
+VM]bQWidHOlHB>1SJc2QX82
+!s100 PzaK`SnIbbHT_@1eaGG4l1
+R6
+32
+R36
+R37
+R38
+R10
+R11
+Emy_clock
+Z39 w1181091014
+R13
+R14
+R1
+R2
+R3
+Z40 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_clock.vhd
+Z41 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_clock.vhd
+l0
+L6
+VaaJh^z;5af<9eBnNQJEjF2
+R6
+32
+Z42 !s108 1379551933.260000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_clock.vhd|
+Z44 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/ps_clock.vhd|
+R10
+R11
+!s100 @?XBoSbGQXPlm<^SI?3mO1
+Abehavior
+R13
+R14
+R1
+R2
+DEx4 work 8 my_clock 0 22 aaJh^z;5af<9eBnNQJEjF2
+l11
+L10
+VhQ>bMJLW0kB`0V7o3D`Ig3
+R6
+32
+R42
+R43
+R44
+R10
+R11
+!s100 KNYINzBTBS`cKmPi[W[Ym1
+Epipe_reg1
+Z45 w1182328386
+R1
+R2
+R3
+Z46 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg1.vhd
+Z47 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg1.vhd
+l0
+L6
+VPnibmdU[LGGIa=4]P;YI^3
+R6
+32
+Z48 !s108 1379551933.069000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg1.vhd|
+Z50 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg1.vhd|
+R10
+R11
+!s100 ?8G@QTWX>@B`Fn[6CTCk@1
+Abehavioral
+R1
+R2
+DEx4 work 9 pipe_reg1 0 22 PnibmdU[LGGIa=4]P;YI^3
+l15
+L14
+V5Z5a=R_3W^PaXza1TO4O72
+R6
+32
+R48
+R49
+R50
+R10
+R11
+!s100 klbF3G?UNXlN_cezX?:QW2
+Epipe_reg2
+Z51 w1182342046
+R1
+R2
+R3
+Z52 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg2.vhd
+Z53 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg2.vhd
+l0
+L4
+VQEECah?8j1TXC8BR;ROP=2
+R6
+32
+Z54 !s108 1379551933.117000
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg2.vhd|
+Z56 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg2.vhd|
+R10
+R11
+!s100 U`XK?<F=@zz?`[jGkK7AR0
+Abehavioral
+R1
+R2
+DEx4 work 9 pipe_reg2 0 22 QEECah?8j1TXC8BR;ROP=2
+l22
+L21
+VRKnj3<[ZF>Y>zazePMf_a0
+R6
+32
+R54
+R55
+R56
+R10
+R11
+!s100 `T9jZ67^RNN7M4I]cE7@n3
+Epipe_reg3
+Z57 w1183892390
+R1
+R2
+R3
+Z58 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg3.vhd
+Z59 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg3.vhd
+l0
+L4
+V`dYfo?X3HT>_f`YaeHfbK3
+R6
+32
+Z60 !s108 1379551933.162000
+Z61 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg3.vhd|
+Z62 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg3.vhd|
+R10
+R11
+!s100 _4M?gDnRcMnI@mJVdjEO41
+Abehavioral
+R1
+R2
+DEx4 work 9 pipe_reg3 0 22 `dYfo?X3HT>_f`YaeHfbK3
+l17
+L16
+VeO3oiYFzeDhIRaMiKd0Nm1
+R6
+32
+R60
+R61
+R62
+R10
+R11
+!s100 `3^`:gbGAFGa39I[EK7913
+Epipe_reg4
+Z63 w1182328672
+R1
+R2
+R3
+Z64 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg4.vhd
+Z65 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg4.vhd
+l0
+L4
+VZ^hdN1kU7YVBok:@VB`h72
+R6
+32
+Z66 !s108 1379551933.211000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg4.vhd|
+Z68 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/pipe_reg4.vhd|
+R10
+R11
+!s100 Ng]mKRGjhUL7kdd8cB>:90
+Abehavioral
+R1
+R2
+DEx4 work 9 pipe_reg4 0 22 Z^hdN1kU7YVBok:@VB`h72
+l16
+L15
+V:XfcnBbGDBJI[Yoa25?mJ2
+R6
+32
+R66
+R67
+R68
+R10
+R11
+!s100 BUCFJWTU0nz4886NjEKb`2
+Espim_pipe
+Z69 w1182739080
+R21
+R14
+R1
+R2
+R3
+Z70 8C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/spim_pipe.vhd
+Z71 FC:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/spim_pipe.vhd
+l0
+L23
+VRKeWLoLI4`Ll@4QiGdE6K0
+!s100 RgzOKmdnZ^Mo2T6h6@_692
+R6
+32
+Z72 !s108 1379551933.592000
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/spim_pipe.vhd|
+Z74 !s107 C:/Users/kngu2907.INTERNAL/Computer Architecture Assignment/PS_SPIM/spim_pipe.vhd|
+R10
+R11
+Astructural
+R21
+R14
+R1
+R2
+Z75 DEx4 work 9 spim_pipe 0 22 RKeWLoLI4`Ll@4QiGdE6K0
+l220
+L34
+Z76 VUN5>L7mzHe2eZg6P;[d0E1
+Z77 !s100 =7Y7DI[?bo]WNTkonHNo>0
+R6
+32
+R72
+R73
+R74
+R10
+R11
